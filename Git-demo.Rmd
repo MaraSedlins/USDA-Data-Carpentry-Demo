@@ -1,0 +1,8 @@
+---
+title: "Git-demo"
+author: "Mara Sedlins"
+date: "August 23, 2018"
+output: html_document
+---
+
+## demo collaboration with Git in R
