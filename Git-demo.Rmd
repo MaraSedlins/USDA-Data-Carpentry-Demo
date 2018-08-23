@@ -8,3 +8,11 @@ output: html_document
 ## demo collaboration with Git in R
 
 ## here is another edit
+
+```{r}
+x <- c(1:10)
+y <- c(1:10)
+
+plot(x,y)
+```
+
